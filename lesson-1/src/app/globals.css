@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  color: #ffffff;
+  background: linear-gradient(
+    to bottom,
+    #1b0713 0%,
+    #030303 50%,
+    #251a22 100%
+  );
+}
+
+.website-link {
+  opacity: 0;
+}
+
+.animation-completed + .website-link {
+  opacity: 1;
+}
