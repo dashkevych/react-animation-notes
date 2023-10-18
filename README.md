@@ -4,4 +4,4 @@ My notes on using React and animations.
 
 **Notes cover:**
 
-* Lesson #1: Next.js & Fluent UI: Setup
+* Lesson #1: Simple about page with typing text animation
